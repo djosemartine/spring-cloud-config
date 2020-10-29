@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "1.0.1",
-    "@types/chai": "4.2.7",
+    "@types/chai": "4.2.14",
     "@types/chai-as-promised": "7.1.2",
     "@types/mocha": "5.2.7",
     "@types/node": "12.12.22",
